@@ -1,0 +1,23 @@
+{
+  "name": "anddigital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SolutionAND.js",
+  "scripts": {
+    "test": "tape ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgiamshaw/anddigital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgiamshaw/anddigital/issues"
+  },
+  "homepage": "https://github.com/georgiamshaw/anddigital#readme",
+  "dependencies": {
+    "tape": "^4.13.2"
+  }
+}
