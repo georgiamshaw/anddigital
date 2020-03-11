@@ -29,6 +29,11 @@ function solution(input) {
 
 module.exports = solution;
 
+console.log("326");
 console.log(solution("326")); // expected ouput 632,623,362,326,263,236
+
+console.log("A 3B2 C6D");
 console.log(solution("A 3B2 C6D")); // expected ouput 632,623,362,326,263,236
+
+console.log("ABC");
 console.log(solution("ABC")); // expected output "This input does not contain any integers"
