@@ -4,7 +4,7 @@
 
 - To download, open terminal and clone this repository
 ```
-git clone git@github.com:georgiamshaw/anddigital.git
+git clone https://github.com/georgiamshaw/anddigital.git
 ```
 - Open the repository in your text editor.
 
